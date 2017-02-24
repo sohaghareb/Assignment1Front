@@ -1,0 +1,43 @@
+*{
+	padding-left: 0;
+	margin-left: 0;
+}
+
+
+.slide{
+
+  float: left;
+  /*width: 25%;
+*/  height: 80%;
+	padding: 0;
+
+
+
+
+}
+
+
+.images_container{
+  /*width: 400%;*/
+  margin-left: 0;
+}
+.my_slider{
+	width: 100%;
+}
+.clear{
+  clear: both;
+}
+.left-button{
+	float: left;
+	border-top: 10px solid transparent;
+	border-right: 10px solid grey;
+	border-bottom: 10px solid transparent;
+	border-left: 10px solid transparent;
+}
+.right-button{
+		float: right;
+	border-top: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	border-left: 10px solid orange;
+}
